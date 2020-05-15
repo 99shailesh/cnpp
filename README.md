@@ -8,11 +8,11 @@
 * output
 ## run
 '''
-  g++ "filename".cpp -o "filename"
-  ./"filename"
+  g++ filename.cpp -o filename
+  ./filename
 '''
 
 '''
-  g++ "filename".cpp -o "filename"
-  "filename".exe
+  g++ filename.cpp -o filename
+  filename.exe
 '''
