@@ -1,8 +1,7 @@
-# 100 DAY OF DS & ALGO 
-### habbit anything comes in 18-254 day , i have took 100 day to be avg time to form a habit 
-## main points
-* daily coding 
-* learning ds algo 
+# DS & ALGO 
+##  points
+*  coding 
+*  ds algo 
 ## content 
 * code
 * output
